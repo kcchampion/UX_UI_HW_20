@@ -322,3 +322,24 @@ footer h3 {
 }
 
 .footer-bottom a:hover, .footer-bottom a:focus { color: #888; }
+.card {
+  margin-top: 30px;
+}
+
+.card-header {
+  background-color: #007bff;
+  color: white;
+}
+
+.card-header h5 {
+  margin-bottom: 0;
+}
+
+.card-body {
+  font-size: 18px;
+}
+
+.jumbotron {
+  background-color: #f8f9fa;
+  margin-bottom: 30px;
+}
